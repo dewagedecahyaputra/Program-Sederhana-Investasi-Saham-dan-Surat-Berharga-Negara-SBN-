@@ -50,8 +50,8 @@ class InvestasiApp {
     );
 
     public static void main(String[] args) {
-        boolean running = true;
-        while (running) {
+        boolean run = true;
+        while (run) {
             System.out.println("1. Login");
             System.out.println("2. Exit");
             System.out.print("Pilih: ");
@@ -59,7 +59,7 @@ class InvestasiApp {
             scanner.nextLine();
 
             if (choice == 1) login();
-            else if (choice == 2) running = false;
+            else if (choice == 2) run = false;
         }
     }
 

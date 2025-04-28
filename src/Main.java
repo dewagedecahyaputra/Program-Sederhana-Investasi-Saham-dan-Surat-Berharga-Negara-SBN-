@@ -275,12 +275,17 @@ class InvestasiApp {
         scanner.nextLine();
 
         switch (choice) {
-            case 1 -> beliSaham(customer);
-            case 2 -> jualSaham(customer);
-            case 3 -> beliSbn(customer);
-            case 4 -> simulasiSbn(customer);
-            case 5 -> lihatPortofolio(customer);
-            case 6 -> running = false;
+            case 1 : beliSaham(customer);
+            break;
+            case 2 : jualSaham(customer);
+            break;
+            case 3 : beliSbn(customer);
+            break;
+            case 4 : simulasiSbn(customer);
+            break;
+            case 5 : lihatPortofolio(customer);
+            break;
+            default : running = false;
         }
     }
 }

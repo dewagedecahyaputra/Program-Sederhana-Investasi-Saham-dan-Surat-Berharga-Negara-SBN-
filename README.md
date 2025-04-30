@@ -41,25 +41,25 @@ Aplikasi ini adalah sistem berbasis console yang memungkinkan pengguna (admin da
 Berikut beberapa contoh screenshot hasil tampilan dari berbagai skenario aplikasi:
 
 ### 1. Menu Login
-![Login Screenshot](https://drive.google.com/file/d/1_jsGYxnyVuc_vV6PKEFkMXCwa6KwH0KK/view?usp=drive_link)
+[Login Screenshot](https://drive.google.com/file/d/1_jsGYxnyVuc_vV6PKEFkMXCwa6KwH0KK/view?usp=drive_link)
 
 ### 2. Menu Admin
-![Admin Menu Screenshot](https://drive.google.com/file/d/1blHRRv3X3IMkkDf9v7wtpInjzwl6K49h/view?usp=drive_link)
+[Admin Menu Screenshot](https://drive.google.com/file/d/1blHRRv3X3IMkkDf9v7wtpInjzwl6K49h/view?usp=drive_link)
 
 ### 3. Tambah Saham
-![Tambah Saham Screenshot](https://drive.google.com/file/d/18CwqF8jBJCrEOaiJkWxibOMC7Jc8b4aN/view?usp=drive_link)
+[Tambah Saham Screenshot](https://drive.google.com/file/d/18CwqF8jBJCrEOaiJkWxibOMC7Jc8b4aN/view?usp=drive_link)
 
 ### 4. Tambah SBN
-![Tambah SBN Screenshot](https://drive.google.com/file/d/1el-7Tvi_7Go8QvORugFxY-rvub49d59k/view?usp=drive_link)
+[Tambah SBN Screenshot](https://drive.google.com/file/d/1el-7Tvi_7Go8QvORugFxY-rvub49d59k/view?usp=drive_link)
 
 ### 5. Menu Customer
-![Customer Menu Screenshot](https://drive.google.com/file/d/1MqiwC8aZOLBufjDiMcHW1a5cZddyY2ZP/view?usp=drive_link)
+[Customer Menu Screenshot](https://drive.google.com/file/d/1MqiwC8aZOLBufjDiMcHW1a5cZddyY2ZP/view?usp=drive_link)
 
 ### 6. Simulasi SBN
-![Simulasi SBN Screenshot](https://drive.google.com/file/d/1WHDAF8E-ueDeRHiepwHKAU_tvbaFjQEu/view?usp=drive_link)
+[Simulasi SBN Screenshot](https://drive.google.com/file/d/1WHDAF8E-ueDeRHiepwHKAU_tvbaFjQEu/view?usp=drive_link)
 
 ### 7. Portofolio
-![Portofolio Screenshot](https://drive.google.com/file/d/1n87nPMDBGn0MbW06chbjFz5lBTQsHz52/view?usp=drive_link)
+[Portofolio Screenshot](https://drive.google.com/file/d/1n87nPMDBGn0MbW06chbjFz5lBTQsHz52/view?usp=drive_link)
 
                                                                                  
                                                                                  

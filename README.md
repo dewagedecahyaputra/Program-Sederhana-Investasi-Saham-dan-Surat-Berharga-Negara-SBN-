@@ -35,7 +35,7 @@ Aplikasi ini adalah sistem berbasis console yang memungkinkan pengguna (admin da
 
 ## Diagram UML
 
-![UML Diagram](https://drive.google.com/file/d/1TOAwQ63e16F7VpMkw_VyOuGFXYhTURtA/view?usp=drive_link)
+[UML Diagram](https://drive.google.com/file/d/1TOAwQ63e16F7VpMkw_VyOuGFXYhTURtA/view?usp=drive_link)
 
 ## Contoh Tampilan & Skenario
 Berikut beberapa contoh screenshot hasil tampilan dari berbagai skenario aplikasi:
